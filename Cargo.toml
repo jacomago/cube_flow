@@ -7,4 +7,3 @@ edition = "2021"
 # coding challenge 86
 [dependencies]
 nannou = "0.18"
-interaction = { path="../../lib/interaction"}
